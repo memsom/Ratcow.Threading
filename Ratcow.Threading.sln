@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskLockTest", "TaskLockTest\TaskLockTest.csproj", "{36B9D68A-6703-4376-A8F4-D37CD85C24A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ratcow.Threading", "Ratcow.Threading\Ratcow.Threading.csproj", "{2A5DE126-29F1-4339-8FA0-F42383534BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B9D68A-6703-4376-A8F4-D37CD85C24A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9D68A-6703-4376-A8F4-D37CD85C24A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B9D68A-6703-4376-A8F4-D37CD85C24A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B9D68A-6703-4376-A8F4-D37CD85C24A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5DE126-29F1-4339-8FA0-F42383534BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5DE126-29F1-4339-8FA0-F42383534BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5DE126-29F1-4339-8FA0-F42383534BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5DE126-29F1-4339-8FA0-F42383534BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B28C9B0-E488-4E38-AB27-97A90848B05B}
+	EndGlobalSection
+EndGlobal
